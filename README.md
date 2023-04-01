@@ -12,6 +12,8 @@ There are two modes of image search.
 
 ### Results:
 
+These are the search results for the query "Faces with eyeglasses"
+
 #### Before Search:
 <div>
    <img  src="https://github.com/Mehrab-Tanjim/fair_search_engine_using_CLIP/blob/master/results/plots/visualization%20of%20images%20before%20search.jpg"> 
