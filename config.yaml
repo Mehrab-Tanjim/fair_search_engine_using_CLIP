@@ -1,2 +1,2 @@
-image_folder: D:\Research\CelebAMask-HQ\CelebA-HQ-img
-label_path:  D:\Research\CelebAMask-HQ\CelebAMask-HQ-attribute-anno.txt
+image_folder: CelebAMask-HQ\CelebA-HQ-img
+label_path:  CelebAMask-HQ\CelebAMask-HQ-attribute-anno.txt
