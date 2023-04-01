@@ -5,7 +5,7 @@ This is a search engine using CLIP image and text embedding. The basic mechanism
 
 There are two modes of image search.
 
-1. Base Search: In this mode, we just calculate the cosine similarity and sort from highest to lowest to show the most relevant scores on the top.
+1. Base Search: In this mode, we just calculate the cosine similarity and sort from highest to lowest to show the most relevant results on the top.
 
 2. Fair Search: In the base mode, the top results may not show diversity. To rectify that we employ the Algorithm 2 from the paper: "Using Image Fairness Representations in Diversity-Based Re-ranking for Recommendations".
 
