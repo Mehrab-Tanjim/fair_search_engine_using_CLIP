@@ -7,7 +7,9 @@ There are two modes of image search.
 
 1. Base Search: In this mode, we just calculate the cosine similarity and sort from highest to lowest to show the most relevant results on the top.
 
-2. Fair Search: In the base mode, the top results may not show diversity. To rectify that, the Algorithm 2 from the paper is implemented: "Using Image Fairness Representations in Diversity-Based Re-ranking for Recommendations". The main idea of the algorithm is to penalize the relevance score if the top retreived results does not maximize the diversity for the chosen demographics.
+2. Fair Search: In the base mode, the top results may not show diversity. To rectify that, the Algorithm 2 from the paper is implemented: "Using Image Fairness Representations in Diversity-Based Re-ranking for Recommendations". The main idea of the algorithm is to penalize the relevance score if the top retrieved results do not maximize the diversity for the chosen demographics.
+
+<img src="fmmr.png" width="400">
 
 
 ### Results:
